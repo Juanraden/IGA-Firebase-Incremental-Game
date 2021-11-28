@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796001772807",
+    "project_id": "iga-firebase-incremental-game",
+    "storage_bucket": "iga-firebase-incremental-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796001772807:android:0bdd38d3e19eaaaf2fd1a2",
+        "android_client_info": {
+          "package_name": "com.juanraden.incrementalgame2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796001772807-qr0ui9bc8vp3ukt7gi5qfegs70e3s3h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDddejLQ_gTKVulez_0KYb-3WEv2ReKUTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796001772807-qr0ui9bc8vp3ukt7gi5qfegs70e3s3h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
